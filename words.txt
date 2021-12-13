@@ -1,3 +1,5 @@
 11:01   Vivianna created the repo and added it on her own computer through Visual Studios + terminal
 
 11:06 Vivianna cloned the Git on replit
+
+11:13 sara has successfully added a note to this repo
