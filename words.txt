@@ -3,3 +3,9 @@
 11:06 Vivianna cloned the Git on replit
 
 11:13 sara has successfully added a note to this repo
+
+okay so now we are collaborating together, sara write something here: 
+
+i'm doing coder things on the same doc,,,crazy okie
+
+okay now we're going to push it to the main github tree? branch?
